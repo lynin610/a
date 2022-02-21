@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="sO_;J}xjGM@GDW=Gp*Wy" x="0" y="0"/><block type="device_forever" id="v+eE^jW!wzC~AL.)6/~k" x="205" y="0"/><block type="input_logo_event" id="B+FMjR_H{cTHl4VLK|^0" x="55" y="95"><field name="action">TouchButtonEvent.Touched</field><statement name="HANDLER"><block type="device_show_leds" id="Nit,poWs)5Y+sGH}QGp:"><field name="LEDS">`
+        . # . # . 
+        # . # . # 
+        # . . . # 
+        . # . # . 
+        . . # # .
+        `</field><next><block type="playMelody" id="kfSyR5mt7CRA(Byha1]S"><value name="melody"><shadow type="melody_editor" id="V{?2x$xkf|?QN%W.J_1A"><field name="melody">"- - - - - - - - "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id=",Q`].M(g=)m~ElMunv),"><mutation min="40" max="500" label="Tempo" precision="0"/><field name="SLIDER">120</field></shadow></value></block></next></block></statement></block><block type="device_note" id="@j7KU)U)KI#Dq!QYnc$+" disabled="true" x="24" y="474"><field name="name">262</field></block><block type="device_ring" id="2B|PH9F[QUhx3|/C?KCg" disabled="true" x="378" y="569"><value name="note"><shadow type="device_note" id="t|_ER7qN%h$I8WyBybfO" disabled="true"><field name="name">262</field></shadow></value></block></xml>
